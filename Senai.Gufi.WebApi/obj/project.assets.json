@@ -12362,11 +12362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\sprint2-backend\\tarde\\Senai.Gufi.WebApi\\Senai.Gufi.WebApi\\Senai.Gufi.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\Gufi.Senai\\Senai.Gufi.WebApi\\Senai.Gufi.WebApi.csproj",
       "projectName": "Senai.Gufi.WebApi",
-      "projectPath": "C:\\Users\\fic\\Desktop\\sprint2-backend\\tarde\\Senai.Gufi.WebApi\\Senai.Gufi.WebApi\\Senai.Gufi.WebApi.csproj",
+      "projectPath": "C:\\Users\\fic\\Desktop\\Gufi.Senai\\Senai.Gufi.WebApi\\Senai.Gufi.WebApi.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\sprint2-backend\\tarde\\Senai.Gufi.WebApi\\Senai.Gufi.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\Gufi.Senai\\Senai.Gufi.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
